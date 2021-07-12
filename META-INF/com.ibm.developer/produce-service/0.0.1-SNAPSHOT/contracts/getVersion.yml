@@ -5,14 +5,6 @@ request:
   url: /api/version
 response:
   status: 200
-  body: "Test"
-#    - id: 1
-#      name: "Apple"
-#      subName: "Granny Smith"
-#      quantity: 100
-#    - id: 2
-#      name: "Apple"
-#      subName: "Gala"
-#      quantity: 50
-#  headers:
-#    Content-Type: application/json;charset=UTF-8
+  body: "1.1.1171.0"
+headers:
+  Content-Type: text/plain; charset=utf-8
