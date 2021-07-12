@@ -5,7 +5,7 @@ request:
   url: /api/version
 response:
   status: 200
-#  body:
+  body: "Test"
 #    - id: 1
 #      name: "Apple"
 #      subName: "Granny Smith"
